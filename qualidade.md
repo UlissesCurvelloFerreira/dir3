@@ -19,7 +19,10 @@ Outra dificuldade foi acessar a aplicação de dispositivos móveis, mas esse er
 
 - Quando uso o comando:
 
-Isso funciona em dispositivos móveis conectados ao mesmo IP da minha rede http://192.168.1.107/2048-master/ ou posso usar também http://localhost/2048-master/.
+Isso funciona em dispositivos móveis conectados ao mesmo IP da minha rede
+- http://192.168.1.107/2048-master/
+ou posso usar também
+- http://localhost/2048-master/.
 
 ## Conclusão:
 Durante o desenvolvimento do projeto, enfrentei alguns desafios e dificuldades. No entanto, com um pouco de pesquisa e tempo, consegui encontrar a solução adequada para cada um. Essas resoluções foram ótimas oportunidades de aprendizado e desenvolvimento das minhas habilidades.
